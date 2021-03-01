@@ -44,7 +44,7 @@
   justify-content: center;
   border: 0;
   border-radius: 5px;
-  background-color: var(--blue);
+  background: var(--blue);
   color: var(--white);
   font-size: 1.25rem;
   font-weight: 600;
@@ -56,12 +56,12 @@
 }
 
 .countdownButtonActive {
-  background-color: var(--white);
+  background: var(--white);
   color: var(--title);
 }
 
 .countdownButtonActive:hover {
-  background-color: var(--red);
+  background: var(--red);
   color: var(--white);
 }
 

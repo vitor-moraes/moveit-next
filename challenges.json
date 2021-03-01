@@ -1,0 +1,21 @@
+[{
+    "type": "body",
+    "description": "Estique um de seus braços com a palma da mão virada para a frente e puxando os seus dedos para cima por 15 segundos.",
+    "amount": 80
+},{
+    "type": "body",
+    "description": "Puxe seu percoço com a ajuda da mão direita para a esquerda, permanecendo na posição por 10 segundos.",
+    "amount": 70
+},{
+    "type": "body",
+    "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás do percoço por 10 segundos.",
+    "amount": 60
+},{
+    "type": "eye",
+    "description": "Em algum lugar abertop, olhe para o mais longe que puder por 3 segundos em quatro direções diferentes.",
+    "amount": 50
+},{
+    "type": "eye",
+    "description": "Sentado, feche os olhos e cubra-os com a palma da maão por dois minutos, depois abra normalmente e espere po 1 minuto.",
+    "amount": 60
+}]
